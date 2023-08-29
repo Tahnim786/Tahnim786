@@ -2,6 +2,8 @@
 
 Hi, I'm Tahnim Hussain Ali, a passionate aspiring software developer with a focus on Python. Welcome to my GitHub profile!
 
+you can also check out my portfolio from the bootcamp I completed with hyperionDev: https://www.hyperiondev.com/portfolio/134602/
+
 ## About Me
 
 My passion for coding drives me to constantly learn and explore new technologies. I enjoy collaborating on open-source projects and contributing to the developer community.
