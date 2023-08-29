@@ -14,7 +14,7 @@ Here are some of my notable projects:
 
 Project 1 - Task manager -> https://github.com/Tahnim786/finalCapstone
 
-Feel free to explore my repositories to see more of my work.
+Project 2 - Bookstore Manager -> https://github.com/Tahnim786/Bookstore
 
 ## Contact Me
 
