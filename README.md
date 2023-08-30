@@ -10,11 +10,15 @@ My passion for coding drives me to constantly learn and explore new technologies
 
 ## Projects
 
-Here are some of my notable projects:
+Here are some of my notable projects on Python:
 
 Project 1 - Task manager -> https://github.com/Tahnim786/finalCapstone
 
 Project 2 - Bookstore Manager -> https://github.com/Tahnim786/Bookstore
+
+Projects on C#:
+
+project 1 - Banking App -> https://github.com/Tahnim786/MyBankingApp
 
 ## Contact Me
 
